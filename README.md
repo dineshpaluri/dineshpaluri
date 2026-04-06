@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paluri Dinesh</h1>
+<h1 align="center"><<b>Hi 👋, I'm Paluri Dinesh</b></h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshpaluri&label=Profile%20views&color=0e75b6&style=flat" alt="dineshpaluri" /> </p>
@@ -28,8 +28,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dineshpaluri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Dinesh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paluri.dinesh@ybl) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/dinesh) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dinesh) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
