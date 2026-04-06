@@ -1,3 +1,4 @@
+# DINESH PALURI
 # 💫 About Me:
 🔭 I’m currently working on Talk – A Full Stack Social Media Application<br><br>🌱 I’m currently learning Generative AI, LLMs,Java Full Stack,Data Science<br><br>👯 I’m looking to collaborate on Full Stack,Machine Learning & Open Source Projects<br><br>🤝 I’m looking for help with Full Stack Projects<br><br>👨‍💻 All of my projects are available at https://dineshpaluri.github.io/PORTFOLIO/<br><br>💬 Ask me about Python, Machine Learning, Data Analytics, React<br><br>📫 How to reach me paluridinesh51640@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1LcSKoqreskUznBsRuULD8nVEKykzoMAw/view?usp=sharing
 
@@ -13,16 +14,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshpaluri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dineshpaluri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dineshpaluri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dineshpaluri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dineshpaluri&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dineshpaluri&icon=5&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Paluri Dinesh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/7893681104@ybl) 
